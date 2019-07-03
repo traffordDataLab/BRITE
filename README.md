@@ -1,4 +1,4 @@
-Slides from the <a href=“https://twitter.com/BoltonBrite” target=“_blank”>@BoltonBrite</a> event held at Bolton Science and Technology Centre on 3 July 2019.
+Slides from the [@BoltonBrite](https://twitter.com/BoltonBrite) event held at Bolton Science and Technology Centre on 3 July 2019.
 
 <br/>
 
